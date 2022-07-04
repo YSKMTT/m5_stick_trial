@@ -1,5 +1,2 @@
-# mpp
-# playground_python
-# humidifier
-# humidifier
-# m5_stick_trial
+# M5Stick Cのトライアル
+
